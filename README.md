@@ -34,10 +34,10 @@ hay otros muchos diccionarios disponibles en internet:
 ## Algunas capturas de la aplicación
 
 ### Índice 1
-![Índice1](Capturas/Captura1.PNG)
+![Índice1](Capturas/captura1.PNG)
 
 ### Índice 2
-![Índice2](Capturas/Captura2.PNG)
+![Índice2](Capturas/captura2.PNG)
 
 ### Índice 3
 ![Índice3](Capturas/Captura3.PNG)
